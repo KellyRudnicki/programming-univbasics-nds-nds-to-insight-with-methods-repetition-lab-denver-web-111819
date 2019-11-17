@@ -55,7 +55,8 @@ def total_gross(source)
  
  #while i < dir_array.length do 
   # if i == directors_totals[i]
-  pp gross_total = dir_totals.values
+   gross_total = dir_totals.values
+  pp  total = gross_total.sum
  #end 
  #  i += 1
   #end 
