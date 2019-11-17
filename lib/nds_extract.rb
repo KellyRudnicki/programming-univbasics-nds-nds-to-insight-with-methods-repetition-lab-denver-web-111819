@@ -49,7 +49,7 @@ def total_gross(source)
   # return the total
  #gross_total = 0
 
- #i = 0 
+ i = 0 
  dir_array = list_of_directors(source)
   # dir_totals = directors_totals(source)
  
