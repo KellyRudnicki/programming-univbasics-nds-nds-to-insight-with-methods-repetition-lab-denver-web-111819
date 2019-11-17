@@ -59,7 +59,7 @@ def total_gross(source)
 # end 
  #  i += 1
   #end 
-  #pp dir_totals
+  pp dir_totals
  # gross_total
 end
 
