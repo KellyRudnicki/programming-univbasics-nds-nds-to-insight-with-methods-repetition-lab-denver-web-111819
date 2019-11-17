@@ -59,7 +59,7 @@ def total_gross(source)
   #  end 
   # i += 1
   #end 
-  pp directors_totals(list_of_directors)
+  pp directors_totals(list_of_directors[source])
   #gross_total
 end
 
